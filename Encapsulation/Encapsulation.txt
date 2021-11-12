@@ -1,0 +1,13 @@
+Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition. 
+Typically, only the object’s own methods can directly inspect or manipulate its fields.
+
+Encapsulation is the hiding of data implementation by restricting access to accessors and mutators.
+An accessor is a method that is used to ask an object about itself. In OOP, these are usually in the form of properties, which have a get method, which is an accessor method.
+
+Accessor methods are not restricted to properties and can be any public method that gives information about the state of the object.
+
+A Mutator is public method that is used to modify the state of an object, while hiding the implementation of exactly how the data gets modified. 
+It’s the set method that lets the caller modify the member data behind the scenes.
+
+Hiding the internals of the object protects its integrity by preventing users from setting the internal data of the component into an invalid or inconsistent state. 
+This type of data protection and implementation protection is called Encapsulation. It reduce system complexity.
