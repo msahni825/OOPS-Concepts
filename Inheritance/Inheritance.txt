@@ -1,0 +1,10 @@
+Inheritance is a way to reuse code of existing objects, or to establish a subtype from an existing object, or both, depending upon programming language support. 
+
+In classical inheritance where objects are defined by classes, classes can inherit attributes and behavior from pre-existing classes called base classes, superclasses, 
+parent classes or ancestor classes. The resulting classes are known as derived classes, subclasses or child classes. The relationships of classes through inheritance 
+gives rise to a hierarchy.
+The properties commonly include class data variables, properties, and methods or functions. The superclass establishes a common interface and foundational functionality, 
+which specialized subclasses can inherit, modify, and supplement.
+
+The software inherited by a subclass is considered reused in the subclass. In some cases, a subclass may customize or redefine a method inherited from the superclass. 
+A superclass method which can be redefined in this way is called a virtual method.
